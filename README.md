@@ -32,7 +32,7 @@ output : tensor([[0.0145, 0.9855]])
 
 # Assignment 2
 
-> Numpy
+> Numpy with X1 -> Y1, X2 -> Y2
 > 
 
 ```python
@@ -55,7 +55,7 @@ w1 gradient :
  [0.59130857 0.59130857 0.59130857 0.59130857]]
 ```
 
-> PyTorch
+> PyTorch with X1 -> Y1, X2 -> Y2
 > 
 
 ```python
@@ -82,7 +82,7 @@ tensor([[0.3942, 0.3942, 0.3942, 0.3942],
 ## Assignment 3
 
 
-> Numpy
+> Numpy with X1 -> Y1, X2 -> Y2
 > 
 
 ```python
@@ -111,9 +111,7 @@ w2 :
  [1.04584536 0.65415464]]
 ```
 
----
-
-> PyTorch
+> PyTorch with X1 -> Y1, X2 -> Y2
 > 
 
 ```python
